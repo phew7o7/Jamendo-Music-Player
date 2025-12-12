@@ -14,7 +14,7 @@ void main() {
 }
 
 /// -- PUBLIC Client ID (safe to use on client-side)
-const String jamendoClientId = "d16803b0";
+const String jamendoClientId = "YOUR_JAMENDO_API_KEY";
 
 class JamendoApp extends StatelessWidget {
   const JamendoApp({super.key});
